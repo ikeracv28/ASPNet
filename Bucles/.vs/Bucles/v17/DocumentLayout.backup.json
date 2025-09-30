@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CAMPUSFP\\Desktop\\repo\\ASPNet\\Bucles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF485A3D-71EB-4E5E-9F59-453441B2A54B}|Bucles\\Bucles.csproj|c:\\users\\campusfp\\desktop\\repo\\aspnet\\bucles\\bucles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF485A3D-71EB-4E5E-9F59-453441B2A54B}|Bucles\\Bucles.csproj|solutionrelative:bucles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CAMPUSFP\\Desktop\\repo\\ASPNet\\Bucles\\Bucles\\Program.cs",
+              "RelativeDocumentMoniker": "Bucles\\Program.cs",
+              "ToolTip": "C:\\Users\\CAMPUSFP\\Desktop\\repo\\ASPNet\\Bucles\\Bucles\\Program.cs*",
+              "RelativeToolTip": "Bucles\\Program.cs*",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwEEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T07:34:51.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

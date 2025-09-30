@@ -1,0 +1,15 @@
+C:\Users\CAMPUSFP\Desktop\repo\ASPNet\AnalizadorNumerico1\AnalizadorNumerico1\bin\Debug\net8.0\AnalizadorNumerico1.exe
+C:\Users\CAMPUSFP\Desktop\repo\ASPNet\AnalizadorNumerico1\AnalizadorNumerico1\bin\Debug\net8.0\AnalizadorNumerico1.deps.json
+C:\Users\CAMPUSFP\Desktop\repo\ASPNet\AnalizadorNumerico1\AnalizadorNumerico1\bin\Debug\net8.0\AnalizadorNumerico1.runtimeconfig.json
+C:\Users\CAMPUSFP\Desktop\repo\ASPNet\AnalizadorNumerico1\AnalizadorNumerico1\bin\Debug\net8.0\AnalizadorNumerico1.dll
+C:\Users\CAMPUSFP\Desktop\repo\ASPNet\AnalizadorNumerico1\AnalizadorNumerico1\bin\Debug\net8.0\AnalizadorNumerico1.pdb
+C:\Users\CAMPUSFP\Desktop\repo\ASPNet\AnalizadorNumerico1\AnalizadorNumerico1\obj\Debug\net8.0\AnalizadorNumerico1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CAMPUSFP\Desktop\repo\ASPNet\AnalizadorNumerico1\AnalizadorNumerico1\obj\Debug\net8.0\AnalizadorNumerico1.AssemblyInfoInputs.cache
+C:\Users\CAMPUSFP\Desktop\repo\ASPNet\AnalizadorNumerico1\AnalizadorNumerico1\obj\Debug\net8.0\AnalizadorNumerico1.AssemblyInfo.cs
+C:\Users\CAMPUSFP\Desktop\repo\ASPNet\AnalizadorNumerico1\AnalizadorNumerico1\obj\Debug\net8.0\AnalizadorNumerico1.csproj.CoreCompileInputs.cache
+C:\Users\CAMPUSFP\Desktop\repo\ASPNet\AnalizadorNumerico1\AnalizadorNumerico1\obj\Debug\net8.0\AnalizadorNumerico1.sourcelink.json
+C:\Users\CAMPUSFP\Desktop\repo\ASPNet\AnalizadorNumerico1\AnalizadorNumerico1\obj\Debug\net8.0\AnalizadorNumerico1.dll
+C:\Users\CAMPUSFP\Desktop\repo\ASPNet\AnalizadorNumerico1\AnalizadorNumerico1\obj\Debug\net8.0\refint\AnalizadorNumerico1.dll
+C:\Users\CAMPUSFP\Desktop\repo\ASPNet\AnalizadorNumerico1\AnalizadorNumerico1\obj\Debug\net8.0\AnalizadorNumerico1.pdb
+C:\Users\CAMPUSFP\Desktop\repo\ASPNet\AnalizadorNumerico1\AnalizadorNumerico1\obj\Debug\net8.0\AnalizadorNumerico1.genruntimeconfig.cache
+C:\Users\CAMPUSFP\Desktop\repo\ASPNet\AnalizadorNumerico1\AnalizadorNumerico1\obj\Debug\net8.0\ref\AnalizadorNumerico1.dll
