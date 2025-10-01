@@ -1,0 +1,15 @@
+C:\Repositorio\ASPNet\ASP_A1_1_EjerciciosDeRepaso\Ejercicio_6\bin\Debug\net8.0\Ejercicio_6.exe
+C:\Repositorio\ASPNet\ASP_A1_1_EjerciciosDeRepaso\Ejercicio_6\bin\Debug\net8.0\Ejercicio_6.deps.json
+C:\Repositorio\ASPNet\ASP_A1_1_EjerciciosDeRepaso\Ejercicio_6\bin\Debug\net8.0\Ejercicio_6.runtimeconfig.json
+C:\Repositorio\ASPNet\ASP_A1_1_EjerciciosDeRepaso\Ejercicio_6\bin\Debug\net8.0\Ejercicio_6.dll
+C:\Repositorio\ASPNet\ASP_A1_1_EjerciciosDeRepaso\Ejercicio_6\bin\Debug\net8.0\Ejercicio_6.pdb
+C:\Repositorio\ASPNet\ASP_A1_1_EjerciciosDeRepaso\Ejercicio_6\obj\Debug\net8.0\Ejercicio_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\ASPNet\ASP_A1_1_EjerciciosDeRepaso\Ejercicio_6\obj\Debug\net8.0\Ejercicio_6.AssemblyInfoInputs.cache
+C:\Repositorio\ASPNet\ASP_A1_1_EjerciciosDeRepaso\Ejercicio_6\obj\Debug\net8.0\Ejercicio_6.AssemblyInfo.cs
+C:\Repositorio\ASPNet\ASP_A1_1_EjerciciosDeRepaso\Ejercicio_6\obj\Debug\net8.0\Ejercicio_6.csproj.CoreCompileInputs.cache
+C:\Repositorio\ASPNet\ASP_A1_1_EjerciciosDeRepaso\Ejercicio_6\obj\Debug\net8.0\Ejercicio_6.sourcelink.json
+C:\Repositorio\ASPNet\ASP_A1_1_EjerciciosDeRepaso\Ejercicio_6\obj\Debug\net8.0\Ejercicio_6.dll
+C:\Repositorio\ASPNet\ASP_A1_1_EjerciciosDeRepaso\Ejercicio_6\obj\Debug\net8.0\refint\Ejercicio_6.dll
+C:\Repositorio\ASPNet\ASP_A1_1_EjerciciosDeRepaso\Ejercicio_6\obj\Debug\net8.0\Ejercicio_6.pdb
+C:\Repositorio\ASPNet\ASP_A1_1_EjerciciosDeRepaso\Ejercicio_6\obj\Debug\net8.0\Ejercicio_6.genruntimeconfig.cache
+C:\Repositorio\ASPNet\ASP_A1_1_EjerciciosDeRepaso\Ejercicio_6\obj\Debug\net8.0\ref\Ejercicio_6.dll
