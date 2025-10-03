@@ -39,8 +39,8 @@
       "RelativeMoniker": "D:0:0:{59DFCB13-DFE6-4DED-A1F4-0A118E5FBE49}|Ejercicio_8\\Ejercicio_8.csproj|solutionrelative:ejercicio_8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DF623D7-3829-4E8D-A1F3-AEAF59AF0D43}|Ejercicio2\\Ejercicio2.csproj|c:\\repositorio\\aspnet\\asp_a1_1_ejerciciosderepaso\\ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DF623D7-3829-4E8D-A1F3-AEAF59AF0D43}|Ejercicio2\\Ejercicio2.csproj|solutionrelative:ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9DF623D7-3829-4E8D-A1F3-AEAF59AF0D43}|Ejercicio2\\Ejercicio_2.csproj|c:\\repositorio\\aspnet\\asp_a1_1_ejerciciosderepaso\\ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF623D7-3829-4E8D-A1F3-AEAF59AF0D43}|Ejercicio2\\Ejercicio_2.csproj|solutionrelative:ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -63,8 +63,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-01T07:54:55.314Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -77,8 +76,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-01T10:28:51.875Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -90,8 +88,7 @@
               "RelativeToolTip": "Ejercicio_8\\Producto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T09:36:21.744Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-01T09:36:21.744Z"
             },
             {
               "$type": "Document",
@@ -103,8 +100,7 @@
               "RelativeToolTip": "Ejercicio_9\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T09:22:21.629Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-01T09:22:21.629Z"
             },
             {
               "$type": "Document",
@@ -116,8 +112,7 @@
               "RelativeToolTip": "Ejercicio_7\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T09:01:39.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-01T09:01:39.564Z"
             },
             {
               "$type": "Document",
@@ -129,8 +124,7 @@
               "RelativeToolTip": "Ejercicio_6\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T08:52:22.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-01T08:52:22.543Z"
             },
             {
               "$type": "Document",
@@ -142,8 +136,7 @@
               "RelativeToolTip": "Ejercicio_5\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T08:42:38.765Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-01T08:42:38.765Z"
             },
             {
               "$type": "Document",
@@ -155,8 +148,7 @@
               "RelativeToolTip": "Ejercicio_4\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T08:08:31.33Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-01T08:08:31.33Z"
             },
             {
               "$type": "Document",
@@ -168,8 +160,7 @@
               "RelativeToolTip": "Ejercicio_3\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T08:00:43.902Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-01T08:00:43.902Z"
             },
             {
               "$type": "Document",
