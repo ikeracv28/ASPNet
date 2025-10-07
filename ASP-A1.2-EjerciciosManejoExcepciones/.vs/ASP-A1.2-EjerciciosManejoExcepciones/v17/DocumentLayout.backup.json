@@ -1,18 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Repositorio\\DesarrolloInterfaces\\ASP-A1.2-EjerciciosManejoExcepciones\\",
+  "WorkspaceRootPath": "C:\\Repositorio\\ASPNet\\ASP-A1.2-EjerciciosManejoExcepciones\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8ED28DAD-351B-4EF0-B092-210FDEAB2B18}|Ejercicio_2\\Ejercicio_2.csproj|c:\\repositorio\\desarrollointerfaces\\asp-a1.2-ejerciciosmanejoexcepciones\\ejercicio_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ED28DAD-351B-4EF0-B092-210FDEAB2B18}|Ejercicio_2\\Ejercicio_2.csproj|solutionrelative:ejercicio_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81BA29F1-FCBE-4E8C-8FD3-ABEFCDD0D92F}|Ejercicio_1\\Ejercicio_1.csproj|c:\\repositorio\\desarrollointerfaces\\asp-a1.2-ejerciciosmanejoexcepciones\\ejercicio_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81BA29F1-FCBE-4E8C-8FD3-ABEFCDD0D92F}|Ejercicio_1\\Ejercicio_1.csproj|solutionrelative:ejercicio_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF0F9D67-97B4-415D-9572-578A81350B51}|ASP-A1.2-EjerciciosManejoExcepciones\\ASP-A1.2-EjerciciosManejoExcepciones.csproj|c:\\repositorio\\desarrollointerfaces\\asp-a1.2-ejerciciosmanejoexcepciones\\asp-a1.2-ejerciciosmanejoexcepciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF0F9D67-97B4-415D-9572-578A81350B51}|ASP-A1.2-EjerciciosManejoExcepciones\\ASP-A1.2-EjerciciosManejoExcepciones.csproj|solutionrelative:asp-a1.2-ejerciciosmanejoexcepciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B0995F3F-238C-42DD-8CFF-3FBD202894D8}|Ejercicio_4\\Ejercicio_4.csproj|c:\\repositorio\\aspnet\\asp-a1.2-ejerciciosmanejoexcepciones\\ejercicio_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0995F3F-238C-42DD-8CFF-3FBD202894D8}|Ejercicio_4\\Ejercicio_4.csproj|solutionrelative:ejercicio_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,38 +20,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Repositorio\\DesarrolloInterfaces\\ASP-A1.2-EjerciciosManejoExcepciones\\Ejercicio_2\\Program.cs",
-              "RelativeDocumentMoniker": "Ejercicio_2\\Program.cs",
-              "ToolTip": "C:\\Repositorio\\DesarrolloInterfaces\\ASP-A1.2-EjerciciosManejoExcepciones\\Ejercicio_2\\Program.cs",
-              "RelativeToolTip": "Ejercicio_2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAzAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Repositorio\\ASPNet\\ASP-A1.2-EjerciciosManejoExcepciones\\Ejercicio_4\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio_4\\Program.cs",
+              "ToolTip": "C:\\Repositorio\\ASPNet\\ASP-A1.2-EjerciciosManejoExcepciones\\Ejercicio_4\\Program.cs",
+              "RelativeToolTip": "Ejercicio_4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T10:46:42.63Z",
+              "WhenOpened": "2025-10-07T12:37:55.057Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Repositorio\\DesarrolloInterfaces\\ASP-A1.2-EjerciciosManejoExcepciones\\Ejercicio_1\\Program.cs",
-              "RelativeDocumentMoniker": "Ejercicio_1\\Program.cs",
-              "ToolTip": "C:\\Repositorio\\DesarrolloInterfaces\\ASP-A1.2-EjerciciosManejoExcepciones\\Ejercicio_1\\Program.cs",
-              "RelativeToolTip": "Ejercicio_1\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T10:30:11.501Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Repositorio\\DesarrolloInterfaces\\ASP-A1.2-EjerciciosManejoExcepciones\\ASP-A1.2-EjerciciosManejoExcepciones\\Program.cs",
-              "RelativeDocumentMoniker": "ASP-A1.2-EjerciciosManejoExcepciones\\Program.cs",
-              "ToolTip": "C:\\Repositorio\\DesarrolloInterfaces\\ASP-A1.2-EjerciciosManejoExcepciones\\ASP-A1.2-EjerciciosManejoExcepciones\\Program.cs",
-              "RelativeToolTip": "ASP-A1.2-EjerciciosManejoExcepciones\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T10:29:50.792Z"
             }
           ]
         }
