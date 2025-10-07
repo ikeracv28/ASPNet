@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repositorio\\ASPNet\\ASP_A1_1_EjerciciosDeRepaso\\Ejercicio2\\Ejercicio_2.csproj": {}
+    "C:\\Repositorio\\ASPNet\\ASP_A1_1_EjerciciosDeRepaso\\Ejercicio_2\\Ejercicio_2.csproj": {}
   },
   "projects": {
-    "C:\\Repositorio\\ASPNet\\ASP_A1_1_EjerciciosDeRepaso\\Ejercicio2\\Ejercicio_2.csproj": {
+    "C:\\Repositorio\\ASPNet\\ASP_A1_1_EjerciciosDeRepaso\\Ejercicio_2\\Ejercicio_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repositorio\\ASPNet\\ASP_A1_1_EjerciciosDeRepaso\\Ejercicio2\\Ejercicio_2.csproj",
+        "projectUniqueName": "C:\\Repositorio\\ASPNet\\ASP_A1_1_EjerciciosDeRepaso\\Ejercicio_2\\Ejercicio_2.csproj",
         "projectName": "Ejercicio_2",
-        "projectPath": "C:\\Repositorio\\ASPNet\\ASP_A1_1_EjerciciosDeRepaso\\Ejercicio2\\Ejercicio_2.csproj",
+        "projectPath": "C:\\Repositorio\\ASPNet\\ASP_A1_1_EjerciciosDeRepaso\\Ejercicio_2\\Ejercicio_2.csproj",
         "packagesPath": "C:\\Users\\CAMPUSFP\\.nuget\\packages\\",
-        "outputPath": "C:\\Repositorio\\ASPNet\\ASP_A1_1_EjerciciosDeRepaso\\Ejercicio2\\obj\\",
+        "outputPath": "C:\\Repositorio\\ASPNet\\ASP_A1_1_EjerciciosDeRepaso\\Ejercicio_2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

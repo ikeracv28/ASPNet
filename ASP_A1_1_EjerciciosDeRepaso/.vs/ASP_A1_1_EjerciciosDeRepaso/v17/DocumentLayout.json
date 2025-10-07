@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Repositorio\\ASPNet\\ASP_A1_1_EjerciciosDeRepaso\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{90189A20-321D-4EB2-83C7-9A7B555A1C47}|Ejercicio_2\\Ejercicio_2.csproj|c:\\repositorio\\aspnet\\asp_a1_1_ejerciciosderepaso\\ejercicio_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90189A20-321D-4EB2-83C7-9A7B555A1C47}|Ejercicio_2\\Ejercicio_2.csproj|solutionrelative:ejercicio_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{62079A95-69DD-4A7F-A285-8EDE19EA7B9C}|Ejercicio_1\\Ejercicio_1.csproj|c:\\repositorio\\aspnet\\asp_a1_1_ejerciciosderepaso\\ejercicio_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62079A95-69DD-4A7F-A285-8EDE19EA7B9C}|Ejercicio_1\\Ejercicio_1.csproj|solutionrelative:ejercicio_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86D2311F-59C6-4CED-8D2B-CB5DF8341C05}|Ejercicio_3\\Ejercicio_3.csproj|c:\\repositorio\\aspnet\\asp_a1_1_ejerciciosderepaso\\ejercicio_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86D2311F-59C6-4CED-8D2B-CB5DF8341C05}|Ejercicio_3\\Ejercicio_3.csproj|solutionrelative:ejercicio_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AADF6C7-182D-439C-977B-707045944D81}|Ejercicio_4\\Ejercicio_4.csproj|c:\\repositorio\\aspnet\\asp_a1_1_ejerciciosderepaso\\ejercicio_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AADF6C7-182D-439C-977B-707045944D81}|Ejercicio_4\\Ejercicio_4.csproj|solutionrelative:ejercicio_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6B5C4FF-2370-4C2F-9B7A-A487B91C0438}|Ejercicio_5\\Ejercicio_5.csproj|c:\\repositorio\\aspnet\\asp_a1_1_ejerciciosderepaso\\ejercicio_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6B5C4FF-2370-4C2F-9B7A-A487B91C0438}|Ejercicio_5\\Ejercicio_5.csproj|solutionrelative:ejercicio_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C54BC58A-C498-49EB-B216-35AC766FAB16}|Ejercicio_6\\Ejercicio_6.csproj|c:\\repositorio\\aspnet\\asp_a1_1_ejerciciosderepaso\\ejercicio_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,22 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DBDEC334-5F4A-4ADD-861B-CE336FC0FED1}|Ejercicio_7\\Ejercicio_7.csproj|c:\\repositorio\\aspnet\\asp_a1_1_ejerciciosderepaso\\ejercicio_7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBDEC334-5F4A-4ADD-861B-CE336FC0FED1}|Ejercicio_7\\Ejercicio_7.csproj|solutionrelative:ejercicio_7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{970FE131-2261-4541-9338-CC5676D447BF}|Ejercicio_9\\Ejercicio_9.csproj|c:\\repositorio\\aspnet\\asp_a1_1_ejerciciosderepaso\\ejercicio_9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{970FE131-2261-4541-9338-CC5676D447BF}|Ejercicio_9\\Ejercicio_9.csproj|solutionrelative:ejercicio_9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59DFCB13-DFE6-4DED-A1F4-0A118E5FBE49}|Ejercicio_8\\Ejercicio_8.csproj|c:\\repositorio\\aspnet\\asp_a1_1_ejerciciosderepaso\\ejercicio_8\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59DFCB13-DFE6-4DED-A1F4-0A118E5FBE49}|Ejercicio_8\\Ejercicio_8.csproj|solutionrelative:ejercicio_8\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59DFCB13-DFE6-4DED-A1F4-0A118E5FBE49}|Ejercicio_8\\Ejercicio_8.csproj|c:\\repositorio\\aspnet\\asp_a1_1_ejerciciosderepaso\\ejercicio_8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59DFCB13-DFE6-4DED-A1F4-0A118E5FBE49}|Ejercicio_8\\Ejercicio_8.csproj|solutionrelative:ejercicio_8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DF623D7-3829-4E8D-A1F3-AEAF59AF0D43}|Ejercicio2\\Ejercicio_2.csproj|c:\\repositorio\\aspnet\\asp_a1_1_ejerciciosderepaso\\ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DF623D7-3829-4E8D-A1F3-AEAF59AF0D43}|Ejercicio2\\Ejercicio_2.csproj|solutionrelative:ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,130 +26,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Repositorio\\ASPNet\\ASP_A1_1_EjerciciosDeRepaso\\Ejercicio2\\Program.cs",
-              "RelativeDocumentMoniker": "Ejercicio2\\Program.cs",
-              "ToolTip": "C:\\Repositorio\\ASPNet\\ASP_A1_1_EjerciciosDeRepaso\\Ejercicio2\\Program.cs",
-              "RelativeToolTip": "Ejercicio2\\Program.cs",
+              "DocumentMoniker": "C:\\Repositorio\\ASPNet\\ASP_A1_1_EjerciciosDeRepaso\\Ejercicio_2\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio_2\\Program.cs",
+              "ToolTip": "C:\\Repositorio\\ASPNet\\ASP_A1_1_EjerciciosDeRepaso\\Ejercicio_2\\Program.cs",
+              "RelativeToolTip": "Ejercicio_2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T07:54:55.314Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Repositorio\\ASPNet\\ASP_A1_1_EjerciciosDeRepaso\\Ejercicio_8\\Program.cs",
-              "RelativeDocumentMoniker": "Ejercicio_8\\Program.cs",
-              "ToolTip": "C:\\Repositorio\\ASPNet\\ASP_A1_1_EjerciciosDeRepaso\\Ejercicio_8\\Program.cs",
-              "RelativeToolTip": "Ejercicio_8\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T10:28:51.875Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Repositorio\\ASPNet\\ASP_A1_1_EjerciciosDeRepaso\\Ejercicio_8\\Producto.cs",
-              "RelativeDocumentMoniker": "Ejercicio_8\\Producto.cs",
-              "ToolTip": "C:\\Repositorio\\ASPNet\\ASP_A1_1_EjerciciosDeRepaso\\Ejercicio_8\\Producto.cs",
-              "RelativeToolTip": "Ejercicio_8\\Producto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T09:36:21.744Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Repositorio\\ASPNet\\ASP_A1_1_EjerciciosDeRepaso\\Ejercicio_9\\Program.cs",
-              "RelativeDocumentMoniker": "Ejercicio_9\\Program.cs",
-              "ToolTip": "C:\\Repositorio\\ASPNet\\ASP_A1_1_EjerciciosDeRepaso\\Ejercicio_9\\Program.cs",
-              "RelativeToolTip": "Ejercicio_9\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T09:22:21.629Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Repositorio\\ASPNet\\ASP_A1_1_EjerciciosDeRepaso\\Ejercicio_7\\Program.cs",
-              "RelativeDocumentMoniker": "Ejercicio_7\\Program.cs",
-              "ToolTip": "C:\\Repositorio\\ASPNet\\ASP_A1_1_EjerciciosDeRepaso\\Ejercicio_7\\Program.cs",
-              "RelativeToolTip": "Ejercicio_7\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T09:01:39.564Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Repositorio\\ASPNet\\ASP_A1_1_EjerciciosDeRepaso\\Ejercicio_6\\Program.cs",
-              "RelativeDocumentMoniker": "Ejercicio_6\\Program.cs",
-              "ToolTip": "C:\\Repositorio\\ASPNet\\ASP_A1_1_EjerciciosDeRepaso\\Ejercicio_6\\Program.cs",
-              "RelativeToolTip": "Ejercicio_6\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T08:52:22.543Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Repositorio\\ASPNet\\ASP_A1_1_EjerciciosDeRepaso\\Ejercicio_5\\Program.cs",
-              "RelativeDocumentMoniker": "Ejercicio_5\\Program.cs",
-              "ToolTip": "C:\\Repositorio\\ASPNet\\ASP_A1_1_EjerciciosDeRepaso\\Ejercicio_5\\Program.cs",
-              "RelativeToolTip": "Ejercicio_5\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T08:42:38.765Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Repositorio\\ASPNet\\ASP_A1_1_EjerciciosDeRepaso\\Ejercicio_4\\Program.cs",
-              "RelativeDocumentMoniker": "Ejercicio_4\\Program.cs",
-              "ToolTip": "C:\\Repositorio\\ASPNet\\ASP_A1_1_EjerciciosDeRepaso\\Ejercicio_4\\Program.cs",
-              "RelativeToolTip": "Ejercicio_4\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T08:08:31.33Z"
+              "WhenOpened": "2025-10-07T12:21:10.169Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Repositorio\\ASPNet\\ASP_A1_1_EjerciciosDeRepaso\\Ejercicio_3\\Program.cs",
-              "RelativeDocumentMoniker": "Ejercicio_3\\Program.cs",
-              "ToolTip": "C:\\Repositorio\\ASPNet\\ASP_A1_1_EjerciciosDeRepaso\\Ejercicio_3\\Program.cs",
-              "RelativeToolTip": "Ejercicio_3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T08:00:43.902Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Repositorio\\ASPNet\\ASP_A1_1_EjerciciosDeRepaso\\Ejercicio_1\\Program.cs",
               "RelativeDocumentMoniker": "Ejercicio_1\\Program.cs",
               "ToolTip": "C:\\Repositorio\\ASPNet\\ASP_A1_1_EjerciciosDeRepaso\\Ejercicio_1\\Program.cs",
               "RelativeToolTip": "Ejercicio_1\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAHIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxEAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T07:12:36.243Z",
+              "WhenOpened": "2025-10-07T12:17:52.813Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repositorio\\ASPNet\\ASP_A1_1_EjerciciosDeRepaso\\Ejercicio_6\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio_6\\Program.cs",
+              "ToolTip": "C:\\Repositorio\\ASPNet\\ASP_A1_1_EjerciciosDeRepaso\\Ejercicio_6\\Program.cs",
+              "RelativeToolTip": "Ejercicio_6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T12:13:10.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repositorio\\ASPNet\\ASP_A1_1_EjerciciosDeRepaso\\Ejercicio_7\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio_7\\Program.cs",
+              "ToolTip": "C:\\Repositorio\\ASPNet\\ASP_A1_1_EjerciciosDeRepaso\\Ejercicio_7\\Program.cs",
+              "RelativeToolTip": "Ejercicio_7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T12:12:27.034Z"
             }
           ]
         }

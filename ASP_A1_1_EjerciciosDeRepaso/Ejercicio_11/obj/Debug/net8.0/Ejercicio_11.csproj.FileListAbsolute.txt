@@ -1,0 +1,6 @@
+C:\Repositorio\ASPNet\ASP_A1_1_EjerciciosDeRepaso\Ejercicio_11\obj\Debug\net8.0\Ejercicio_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\ASPNet\ASP_A1_1_EjerciciosDeRepaso\Ejercicio_11\obj\Debug\net8.0\Ejercicio_11.AssemblyInfoInputs.cache
+C:\Repositorio\ASPNet\ASP_A1_1_EjerciciosDeRepaso\Ejercicio_11\obj\Debug\net8.0\Ejercicio_11.AssemblyInfo.cs
+C:\Repositorio\ASPNet\ASP_A1_1_EjerciciosDeRepaso\Ejercicio_11\obj\Debug\net8.0\Ejercicio_11.csproj.CoreCompileInputs.cache
+C:\Repositorio\ASPNet\ASP_A1_1_EjerciciosDeRepaso\Ejercicio_11\obj\Debug\net8.0\Ejercicio_11.sourcelink.json
+C:\Repositorio\ASPNet\ASP_A1_1_EjerciciosDeRepaso\Ejercicio_11\obj\Debug\net8.0\Ejercicio_11.csproj.AssemblyReference.cache

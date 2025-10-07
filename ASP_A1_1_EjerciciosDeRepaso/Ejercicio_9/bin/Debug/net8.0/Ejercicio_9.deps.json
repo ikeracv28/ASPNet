@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ejercicio_9/1.0.0": {
+        "dependencies": {
+          "Ejercicio_8": "1.0.0"
+        },
+        "runtime": {
+          "Ejercicio_9.dll": {}
+        }
+      },
+      "Ejercicio_8/1.0.0": {
+        "runtime": {
+          "Ejercicio_8.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio_9/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ejercicio_8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

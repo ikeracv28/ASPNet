@@ -41,7 +41,7 @@ public class Calculadora
             Console.WriteLine("1. Suma");
             Console.WriteLine("2. Resta");
             Console.WriteLine("3. Multiplicacion");
-            Console.WriteLine("4. Multiplicacion");
+            Console.WriteLine("4. Division");
             Console.WriteLine("5. Salir\n");
 
         }
@@ -117,7 +117,7 @@ public class Calculadora
                 double b = int.Parse(Console.ReadLine());
 
                 double resultado = a / b;
-                Console.WriteLine("El resultado de la multiplicacion es: " + resultado);
+                Console.WriteLine("El resultado de la division es: " + resultado);
             }
             catch (Exception ex)
             {
