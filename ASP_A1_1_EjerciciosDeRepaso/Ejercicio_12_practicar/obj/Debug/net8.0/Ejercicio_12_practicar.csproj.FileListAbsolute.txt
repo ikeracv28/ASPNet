@@ -1,0 +1,15 @@
+C:\Repositorio\ASPNet\ASP_A1_1_EjerciciosDeRepaso\Ejercicio_12_practicar\bin\Debug\net8.0\Ejercicio_12_practicar.exe
+C:\Repositorio\ASPNet\ASP_A1_1_EjerciciosDeRepaso\Ejercicio_12_practicar\bin\Debug\net8.0\Ejercicio_12_practicar.deps.json
+C:\Repositorio\ASPNet\ASP_A1_1_EjerciciosDeRepaso\Ejercicio_12_practicar\bin\Debug\net8.0\Ejercicio_12_practicar.runtimeconfig.json
+C:\Repositorio\ASPNet\ASP_A1_1_EjerciciosDeRepaso\Ejercicio_12_practicar\bin\Debug\net8.0\Ejercicio_12_practicar.dll
+C:\Repositorio\ASPNet\ASP_A1_1_EjerciciosDeRepaso\Ejercicio_12_practicar\bin\Debug\net8.0\Ejercicio_12_practicar.pdb
+C:\Repositorio\ASPNet\ASP_A1_1_EjerciciosDeRepaso\Ejercicio_12_practicar\obj\Debug\net8.0\Ejercicio_12_practicar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\ASPNet\ASP_A1_1_EjerciciosDeRepaso\Ejercicio_12_practicar\obj\Debug\net8.0\Ejercicio_12_practicar.AssemblyInfoInputs.cache
+C:\Repositorio\ASPNet\ASP_A1_1_EjerciciosDeRepaso\Ejercicio_12_practicar\obj\Debug\net8.0\Ejercicio_12_practicar.AssemblyInfo.cs
+C:\Repositorio\ASPNet\ASP_A1_1_EjerciciosDeRepaso\Ejercicio_12_practicar\obj\Debug\net8.0\Ejercicio_12_practicar.csproj.CoreCompileInputs.cache
+C:\Repositorio\ASPNet\ASP_A1_1_EjerciciosDeRepaso\Ejercicio_12_practicar\obj\Debug\net8.0\Ejercicio_12_practicar.sourcelink.json
+C:\Repositorio\ASPNet\ASP_A1_1_EjerciciosDeRepaso\Ejercicio_12_practicar\obj\Debug\net8.0\Ejercicio_12_practicar.dll
+C:\Repositorio\ASPNet\ASP_A1_1_EjerciciosDeRepaso\Ejercicio_12_practicar\obj\Debug\net8.0\refint\Ejercicio_12_practicar.dll
+C:\Repositorio\ASPNet\ASP_A1_1_EjerciciosDeRepaso\Ejercicio_12_practicar\obj\Debug\net8.0\Ejercicio_12_practicar.pdb
+C:\Repositorio\ASPNet\ASP_A1_1_EjerciciosDeRepaso\Ejercicio_12_practicar\obj\Debug\net8.0\Ejercicio_12_practicar.genruntimeconfig.cache
+C:\Repositorio\ASPNet\ASP_A1_1_EjerciciosDeRepaso\Ejercicio_12_practicar\obj\Debug\net8.0\ref\Ejercicio_12_practicar.dll

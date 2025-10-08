@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Repositorio\\ASPNet\\ASP_A1_1_EjerciciosDeRepaso\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7048E6C6-782B-4FC2-BF45-CF1D8C776EE8}|Ejercicio_12_practicar\\Ejercicio_12_practicar.csproj|c:\\repositorio\\aspnet\\asp_a1_1_ejerciciosderepaso\\ejercicio_12_practicar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7048E6C6-782B-4FC2-BF45-CF1D8C776EE8}|Ejercicio_12_practicar\\Ejercicio_12_practicar.csproj|solutionrelative:ejercicio_12_practicar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{90189A20-321D-4EB2-83C7-9A7B555A1C47}|Ejercicio_2\\Ejercicio_2.csproj|c:\\repositorio\\aspnet\\asp_a1_1_ejerciciosderepaso\\ejercicio_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90189A20-321D-4EB2-83C7-9A7B555A1C47}|Ejercicio_2\\Ejercicio_2.csproj|solutionrelative:ejercicio_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -32,6 +36,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repositorio\\ASPNet\\ASP_A1_1_EjerciciosDeRepaso\\Ejercicio_12_practicar\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio_12_practicar\\Program.cs",
+              "ToolTip": "C:\\Repositorio\\ASPNet\\ASP_A1_1_EjerciciosDeRepaso\\Ejercicio_12_practicar\\Program.cs",
+              "RelativeToolTip": "Ejercicio_12_practicar\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T07:21:18.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Repositorio\\ASPNet\\ASP_A1_1_EjerciciosDeRepaso\\Ejercicio_2\\Program.cs",
               "RelativeDocumentMoniker": "Ejercicio_2\\Program.cs",
               "ToolTip": "C:\\Repositorio\\ASPNet\\ASP_A1_1_EjerciciosDeRepaso\\Ejercicio_2\\Program.cs",
@@ -43,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Repositorio\\ASPNet\\ASP_A1_1_EjerciciosDeRepaso\\Ejercicio_1\\Program.cs",
               "RelativeDocumentMoniker": "Ejercicio_1\\Program.cs",
@@ -51,12 +68,11 @@
               "RelativeToolTip": "Ejercicio_1\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAADwvxEAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T12:17:52.813Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-07T12:17:52.813Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Repositorio\\ASPNet\\ASP_A1_1_EjerciciosDeRepaso\\Ejercicio_6\\Program.cs",
               "RelativeDocumentMoniker": "Ejercicio_6\\Program.cs",
@@ -68,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Repositorio\\ASPNet\\ASP_A1_1_EjerciciosDeRepaso\\Ejercicio_7\\Program.cs",
               "RelativeDocumentMoniker": "Ejercicio_7\\Program.cs",
