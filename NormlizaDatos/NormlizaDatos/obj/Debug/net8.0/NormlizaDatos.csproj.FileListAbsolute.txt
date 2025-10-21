@@ -1,0 +1,15 @@
+C:\Repositorio\ASPNet\NormlizaDatos\NormlizaDatos\bin\Debug\net8.0\NormlizaDatos.exe
+C:\Repositorio\ASPNet\NormlizaDatos\NormlizaDatos\bin\Debug\net8.0\NormlizaDatos.deps.json
+C:\Repositorio\ASPNet\NormlizaDatos\NormlizaDatos\bin\Debug\net8.0\NormlizaDatos.runtimeconfig.json
+C:\Repositorio\ASPNet\NormlizaDatos\NormlizaDatos\bin\Debug\net8.0\NormlizaDatos.dll
+C:\Repositorio\ASPNet\NormlizaDatos\NormlizaDatos\bin\Debug\net8.0\NormlizaDatos.pdb
+C:\Repositorio\ASPNet\NormlizaDatos\NormlizaDatos\obj\Debug\net8.0\NormlizaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\ASPNet\NormlizaDatos\NormlizaDatos\obj\Debug\net8.0\NormlizaDatos.AssemblyInfoInputs.cache
+C:\Repositorio\ASPNet\NormlizaDatos\NormlizaDatos\obj\Debug\net8.0\NormlizaDatos.AssemblyInfo.cs
+C:\Repositorio\ASPNet\NormlizaDatos\NormlizaDatos\obj\Debug\net8.0\NormlizaDatos.csproj.CoreCompileInputs.cache
+C:\Repositorio\ASPNet\NormlizaDatos\NormlizaDatos\obj\Debug\net8.0\NormlizaDatos.sourcelink.json
+C:\Repositorio\ASPNet\NormlizaDatos\NormlizaDatos\obj\Debug\net8.0\NormlizaDatos.dll
+C:\Repositorio\ASPNet\NormlizaDatos\NormlizaDatos\obj\Debug\net8.0\refint\NormlizaDatos.dll
+C:\Repositorio\ASPNet\NormlizaDatos\NormlizaDatos\obj\Debug\net8.0\NormlizaDatos.pdb
+C:\Repositorio\ASPNet\NormlizaDatos\NormlizaDatos\obj\Debug\net8.0\NormlizaDatos.genruntimeconfig.cache
+C:\Repositorio\ASPNet\NormlizaDatos\NormlizaDatos\obj\Debug\net8.0\ref\NormlizaDatos.dll
