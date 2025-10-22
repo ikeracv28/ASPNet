@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Repositorio\\ASPNet\\NormlizaDatos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D2CAF735-6C89-4634-9358-69D892E7A516}|SolucionProfesor\\SolucionProfesor.csproj|c:\\repositorio\\aspnet\\normlizadatos\\solucionprofesor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CAF735-6C89-4634-9358-69D892E7A516}|SolucionProfesor\\SolucionProfesor.csproj|solutionrelative:solucionprofesor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C8BFAF-E217-4B55-B2DA-645F880EBC4E}|PruebaProfe\\PruebaProfe.csproj|c:\\repositorio\\aspnet\\normlizadatos\\pruebaprofe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C8BFAF-E217-4B55-B2DA-645F880EBC4E}|PruebaProfe\\PruebaProfe.csproj|solutionrelative:pruebaprofe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4CB9FCC4-0CFC-49D6-81F6-9859A188E3CA}|ConsoleApp3\\ConsoleApp3.csproj|c:\\repositorio\\aspnet\\normlizadatos\\consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CB9FCC4-0CFC-49D6-81F6-9859A188E3CA}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7AC3B16-21C4-4FDD-A457-369DAC50B45E}|ConsoleApp1\\ConsoleApp1.csproj|c:\\repositorio\\aspnet\\normlizadatos\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7AC3B16-21C4-4FDD-A457-369DAC50B45E}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3D5D20E2-31BF-4499-9F92-7BA6D2EA645C}|ConsoleApp2\\ConsoleApp2.csproj|c:\\repositorio\\aspnet\\normlizadatos\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D5D20E2-31BF-4499-9F92-7BA6D2EA645C}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7AC3B16-21C4-4FDD-A457-369DAC50B45E}|ConsoleApp1\\ConsoleApp1.csproj|c:\\repositorio\\aspnet\\normlizadatos\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7AC3B16-21C4-4FDD-A457-369DAC50B45E}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +30,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repositorio\\ASPNet\\NormlizaDatos\\PruebaProfe\\Program.cs",
+              "RelativeDocumentMoniker": "PruebaProfe\\Program.cs",
+              "ToolTip": "C:\\Repositorio\\ASPNet\\NormlizaDatos\\PruebaProfe\\Program.cs",
+              "RelativeToolTip": "PruebaProfe\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T07:50:54.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repositorio\\ASPNet\\NormlizaDatos\\SolucionProfesor\\Program.cs",
+              "RelativeDocumentMoniker": "SolucionProfesor\\Program.cs",
+              "ToolTip": "C:\\Repositorio\\ASPNet\\NormlizaDatos\\SolucionProfesor\\Program.cs",
+              "RelativeToolTip": "SolucionProfesor\\Program.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAqwMcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T07:18:11.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Repositorio\\ASPNet\\NormlizaDatos\\ConsoleApp3\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp3\\Program.cs",
@@ -39,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Repositorio\\ASPNet\\NormlizaDatos\\ConsoleApp2\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
@@ -47,12 +81,11 @@
               "RelativeToolTip": "ConsoleApp2\\Program.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAUwFYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T15:54:17.518Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T15:54:17.518Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Repositorio\\ASPNet\\NormlizaDatos\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
@@ -60,8 +93,7 @@
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T15:48:20.753Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T15:48:20.753Z"
             }
           ]
         }

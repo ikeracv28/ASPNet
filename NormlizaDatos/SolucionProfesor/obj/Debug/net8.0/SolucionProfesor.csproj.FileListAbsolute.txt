@@ -1,0 +1,15 @@
+C:\Repositorio\ASPNet\NormlizaDatos\SolucionProfesor\bin\Debug\net8.0\SolucionProfesor.exe
+C:\Repositorio\ASPNet\NormlizaDatos\SolucionProfesor\bin\Debug\net8.0\SolucionProfesor.deps.json
+C:\Repositorio\ASPNet\NormlizaDatos\SolucionProfesor\bin\Debug\net8.0\SolucionProfesor.runtimeconfig.json
+C:\Repositorio\ASPNet\NormlizaDatos\SolucionProfesor\bin\Debug\net8.0\SolucionProfesor.dll
+C:\Repositorio\ASPNet\NormlizaDatos\SolucionProfesor\bin\Debug\net8.0\SolucionProfesor.pdb
+C:\Repositorio\ASPNet\NormlizaDatos\SolucionProfesor\obj\Debug\net8.0\SolucionProfesor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\ASPNet\NormlizaDatos\SolucionProfesor\obj\Debug\net8.0\SolucionProfesor.AssemblyInfoInputs.cache
+C:\Repositorio\ASPNet\NormlizaDatos\SolucionProfesor\obj\Debug\net8.0\SolucionProfesor.AssemblyInfo.cs
+C:\Repositorio\ASPNet\NormlizaDatos\SolucionProfesor\obj\Debug\net8.0\SolucionProfesor.csproj.CoreCompileInputs.cache
+C:\Repositorio\ASPNet\NormlizaDatos\SolucionProfesor\obj\Debug\net8.0\SolucionProfesor.sourcelink.json
+C:\Repositorio\ASPNet\NormlizaDatos\SolucionProfesor\obj\Debug\net8.0\SolucionProfesor.dll
+C:\Repositorio\ASPNet\NormlizaDatos\SolucionProfesor\obj\Debug\net8.0\refint\SolucionProfesor.dll
+C:\Repositorio\ASPNet\NormlizaDatos\SolucionProfesor\obj\Debug\net8.0\SolucionProfesor.pdb
+C:\Repositorio\ASPNet\NormlizaDatos\SolucionProfesor\obj\Debug\net8.0\SolucionProfesor.genruntimeconfig.cache
+C:\Repositorio\ASPNet\NormlizaDatos\SolucionProfesor\obj\Debug\net8.0\ref\SolucionProfesor.dll

@@ -1,0 +1,15 @@
+C:\Repositorio\ASPNet\A2.7-EjerciciosRepasoLINQ\Ejercicio2\bin\Debug\net8.0\Ejercicio2.exe
+C:\Repositorio\ASPNet\A2.7-EjerciciosRepasoLINQ\Ejercicio2\bin\Debug\net8.0\Ejercicio2.deps.json
+C:\Repositorio\ASPNet\A2.7-EjerciciosRepasoLINQ\Ejercicio2\bin\Debug\net8.0\Ejercicio2.runtimeconfig.json
+C:\Repositorio\ASPNet\A2.7-EjerciciosRepasoLINQ\Ejercicio2\bin\Debug\net8.0\Ejercicio2.dll
+C:\Repositorio\ASPNet\A2.7-EjerciciosRepasoLINQ\Ejercicio2\bin\Debug\net8.0\Ejercicio2.pdb
+C:\Repositorio\ASPNet\A2.7-EjerciciosRepasoLINQ\Ejercicio2\obj\Debug\net8.0\Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\ASPNet\A2.7-EjerciciosRepasoLINQ\Ejercicio2\obj\Debug\net8.0\Ejercicio2.AssemblyInfoInputs.cache
+C:\Repositorio\ASPNet\A2.7-EjerciciosRepasoLINQ\Ejercicio2\obj\Debug\net8.0\Ejercicio2.AssemblyInfo.cs
+C:\Repositorio\ASPNet\A2.7-EjerciciosRepasoLINQ\Ejercicio2\obj\Debug\net8.0\Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Repositorio\ASPNet\A2.7-EjerciciosRepasoLINQ\Ejercicio2\obj\Debug\net8.0\Ejercicio2.sourcelink.json
+C:\Repositorio\ASPNet\A2.7-EjerciciosRepasoLINQ\Ejercicio2\obj\Debug\net8.0\Ejercicio2.dll
+C:\Repositorio\ASPNet\A2.7-EjerciciosRepasoLINQ\Ejercicio2\obj\Debug\net8.0\refint\Ejercicio2.dll
+C:\Repositorio\ASPNet\A2.7-EjerciciosRepasoLINQ\Ejercicio2\obj\Debug\net8.0\Ejercicio2.pdb
+C:\Repositorio\ASPNet\A2.7-EjerciciosRepasoLINQ\Ejercicio2\obj\Debug\net8.0\Ejercicio2.genruntimeconfig.cache
+C:\Repositorio\ASPNet\A2.7-EjerciciosRepasoLINQ\Ejercicio2\obj\Debug\net8.0\ref\Ejercicio2.dll

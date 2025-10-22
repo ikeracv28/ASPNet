@@ -1,0 +1,5 @@
+C:\Repositorio\ASPNet\A2.7-EjerciciosRepasoLINQ\A2.7-EjerciciosRepasoLINQ\obj\Debug\net8.0\A2.7-EjerciciosRepasoLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\ASPNet\A2.7-EjerciciosRepasoLINQ\A2.7-EjerciciosRepasoLINQ\obj\Debug\net8.0\A2.7-EjerciciosRepasoLINQ.AssemblyInfoInputs.cache
+C:\Repositorio\ASPNet\A2.7-EjerciciosRepasoLINQ\A2.7-EjerciciosRepasoLINQ\obj\Debug\net8.0\A2.7-EjerciciosRepasoLINQ.AssemblyInfo.cs
+C:\Repositorio\ASPNet\A2.7-EjerciciosRepasoLINQ\A2.7-EjerciciosRepasoLINQ\obj\Debug\net8.0\A2.7-EjerciciosRepasoLINQ.csproj.CoreCompileInputs.cache
+C:\Repositorio\ASPNet\A2.7-EjerciciosRepasoLINQ\A2.7-EjerciciosRepasoLINQ\obj\Debug\net8.0\A2.7-EjerciciosRepasoLINQ.sourcelink.json

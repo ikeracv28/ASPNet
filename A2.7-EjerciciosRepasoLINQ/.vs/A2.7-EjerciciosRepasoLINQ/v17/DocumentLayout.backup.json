@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repositorio\\ASPNet\\A2.7-EjerciciosRepasoLINQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D999982-6E39-46DF-98CF-95F9F2F0A790}|Ejercicio2\\Ejercicio2.csproj|c:\\repositorio\\aspnet\\a2.7-ejerciciosrepasolinq\\ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D999982-6E39-46DF-98CF-95F9F2F0A790}|Ejercicio2\\Ejercicio2.csproj|solutionrelative:ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93750681-C84B-4CED-8DFA-EF553ACF7DC9}|Ejercicio1\\Ejercicio1.csproj|c:\\repositorio\\aspnet\\a2.7-ejerciciosrepasolinq\\ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93750681-C84B-4CED-8DFA-EF553ACF7DC9}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C490FA86-7E08-4057-9639-5359742FD576}|A2.7-EjerciciosRepasoLINQ\\A2.7-EjerciciosRepasoLINQ.csproj|c:\\repositorio\\aspnet\\a2.7-ejerciciosrepasolinq\\a2.7-ejerciciosrepasolinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C490FA86-7E08-4057-9639-5359742FD576}|A2.7-EjerciciosRepasoLINQ\\A2.7-EjerciciosRepasoLINQ.csproj|solutionrelative:a2.7-ejerciciosrepasolinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repositorio\\ASPNet\\A2.7-EjerciciosRepasoLINQ\\Ejercicio2\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio2\\Program.cs",
+              "ToolTip": "C:\\Repositorio\\ASPNet\\A2.7-EjerciciosRepasoLINQ\\Ejercicio2\\Program.cs",
+              "RelativeToolTip": "Ejercicio2\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwCEAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T09:29:09.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repositorio\\ASPNet\\A2.7-EjerciciosRepasoLINQ\\Ejercicio1\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\Program.cs",
+              "ToolTip": "C:\\Repositorio\\ASPNet\\A2.7-EjerciciosRepasoLINQ\\Ejercicio1\\Program.cs",
+              "RelativeToolTip": "Ejercicio1\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T08:53:12.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repositorio\\ASPNet\\A2.7-EjerciciosRepasoLINQ\\A2.7-EjerciciosRepasoLINQ\\Program.cs",
+              "RelativeDocumentMoniker": "A2.7-EjerciciosRepasoLINQ\\Program.cs",
+              "ToolTip": "C:\\Repositorio\\ASPNet\\A2.7-EjerciciosRepasoLINQ\\A2.7-EjerciciosRepasoLINQ\\Program.cs",
+              "RelativeToolTip": "A2.7-EjerciciosRepasoLINQ\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T08:52:27.898Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
