@@ -1,0 +1,7 @@
+C:\Repositorio\ASPNet\ASP-A2.8-Simulacro de actividad evaluable\ASP-A2.8-Simulacro de actividad evaluable\bin\Debug\ASP-A2.8-Simulacro de actividad evaluable.exe.config
+C:\Repositorio\ASPNet\ASP-A2.8-Simulacro de actividad evaluable\ASP-A2.8-Simulacro de actividad evaluable\bin\Debug\ASP-A2.8-Simulacro de actividad evaluable.exe
+C:\Repositorio\ASPNet\ASP-A2.8-Simulacro de actividad evaluable\ASP-A2.8-Simulacro de actividad evaluable\bin\Debug\ASP-A2.8-Simulacro de actividad evaluable.pdb
+C:\Repositorio\ASPNet\ASP-A2.8-Simulacro de actividad evaluable\ASP-A2.8-Simulacro de actividad evaluable\obj\Debug\ASP-A2.8-Simulacro de actividad evaluable.csproj.AssemblyReference.cache
+C:\Repositorio\ASPNet\ASP-A2.8-Simulacro de actividad evaluable\ASP-A2.8-Simulacro de actividad evaluable\obj\Debug\ASP-A2.8-Simulacro de actividad evaluable.csproj.CoreCompileInputs.cache
+C:\Repositorio\ASPNet\ASP-A2.8-Simulacro de actividad evaluable\ASP-A2.8-Simulacro de actividad evaluable\obj\Debug\ASP-A2.8-Simulacro de actividad evaluable.exe
+C:\Repositorio\ASPNet\ASP-A2.8-Simulacro de actividad evaluable\ASP-A2.8-Simulacro de actividad evaluable\obj\Debug\ASP-A2.8-Simulacro de actividad evaluable.pdb

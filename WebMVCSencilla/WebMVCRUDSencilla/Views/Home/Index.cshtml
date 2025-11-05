@@ -1,0 +1,61 @@
+﻿@using WebMVCRUDSencilla.Models
+@model List<Estudiante> // La vista espera una lista de objetos Estudiante
+
+@{
+    ViewData["Title"] = "Listado de Estudiantes CRUD (MVC)";
+}
+
+<h1>@ViewData["Title"]</h1>
+<p>
+    Esta es la lista de estudiantes gestionada por el HomeController.
+</p>
+
+<p>
+    <a asp-action="Crear" class="btn btn-success">Crear Nuevo Estudiante</a>
+</p>
+
+@if (Model != null && Model.Any())
+{
+    <table class="table table-striped table-hover">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Nombre</th>
+                <th>Curso</th>
+                <th>Edad</th>
+                <th style="width: 180px;">Acciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var estudiante in Model)
+            {
+                <tr>
+                    <td>@estudiante.Id</td>
+                    <td><strong>@estudiante.Nombre</strong></td>
+                    <td>@estudiante.Curso</td>
+                    <td>@estudiante.Edad</td>
+                    <td>
+                        <a asp-action="Editar"
+                           asp-route-id="@estudiante.Id"
+                           class="btn btn-sm btn-info me-2">
+                            Editar
+                        </a>
+
+                        <form asp-action="Eliminar" method="post" style="display:inline;">
+                            <input type="hidden" name="id" value="@estudiante.Id" />
+                            <button type="submit"
+                                    class="btn btn-sm btn-danger"
+                                    onclick="return confirm('¿Seguro que quieres eliminar a @estudiante.Nombre?');">
+                                Eliminar
+                            </button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p class="alert alert-warning">No hay estudiantes en la colección para mostrar.</p>
+}

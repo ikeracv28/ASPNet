@@ -1,0 +1,40 @@
+﻿@using WebMVCSencilla.Models
+@model List<Estudiante> // ¡Define el tipo de colección que espera la vista!
+
+@{
+    ViewData["Title"] = "Listado de Estudiantes MVC";
+}
+
+<h1>@ViewData["Title"]</h1>
+<p>
+    Esta es una lista de estudiantes gestionada por el Controlador y pasada a la Vista.
+</p>
+
+@if (Model != null && Model.Any())
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Nombre</th>
+                <th>Curso</th>
+                <th>Edad</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var estudiante in Model)
+            {
+                <tr>
+                    <td>@estudiante.Id</td>
+                    <td><strong>@estudiante.Nombre</strong></td>
+                    <td>@estudiante.Curso</td>
+                    <td>@estudiante.Edad</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p class="alert alert-warning">No hay estudiantes en la colección para mostrar.</p>
+}
