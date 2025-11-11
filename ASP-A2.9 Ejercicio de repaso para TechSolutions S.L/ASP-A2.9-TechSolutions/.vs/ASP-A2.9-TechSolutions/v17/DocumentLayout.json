@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\repositorio\\ASPNet\\ASP-A2.9 Ejercicio de repaso para TechSolutions S.L\\ASP-A2.9-TechSolutions\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1B33E60C-1FF0-48F7-814F-50F1897ED455}|ASP-A2.9-TechSolutions\\ASP-A2.9-TechSolutions.csproj|c:\\repositorio\\aspnet\\asp-a2.9 ejercicio de repaso para techsolutions s.l\\asp-a2.9-techsolutions\\asp-a2.9-techsolutions\\class11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B33E60C-1FF0-48F7-814F-50F1897ED455}|ASP-A2.9-TechSolutions\\ASP-A2.9-TechSolutions.csproj|solutionrelative:asp-a2.9-techsolutions\\class11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B33E60C-1FF0-48F7-814F-50F1897ED455}|ASP-A2.9-TechSolutions\\ASP-A2.9-TechSolutions.csproj|c:\\repositorio\\aspnet\\asp-a2.9 ejercicio de repaso para techsolutions s.l\\asp-a2.9-techsolutions\\asp-a2.9-techsolutions\\versionprofe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B33E60C-1FF0-48F7-814F-50F1897ED455}|ASP-A2.9-TechSolutions\\ASP-A2.9-TechSolutions.csproj|solutionrelative:asp-a2.9-techsolutions\\versionprofe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1B33E60C-1FF0-48F7-814F-50F1897ED455}|ASP-A2.9-TechSolutions\\ASP-A2.9-TechSolutions.csproj|c:\\repositorio\\aspnet\\asp-a2.9 ejercicio de repaso para techsolutions s.l\\asp-a2.9-techsolutions\\asp-a2.9-techsolutions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B33E60C-1FF0-48F7-814F-50F1897ED455}|ASP-A2.9-TechSolutions\\ASP-A2.9-TechSolutions.csproj|solutionrelative:asp-a2.9-techsolutions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Class11.cs",
+              "DocumentMoniker": "C:\\repositorio\\ASPNet\\ASP-A2.9 Ejercicio de repaso para TechSolutions S.L\\ASP-A2.9-TechSolutions\\ASP-A2.9-TechSolutions\\Class11.cs",
+              "RelativeDocumentMoniker": "ASP-A2.9-TechSolutions\\Class11.cs",
+              "ToolTip": "C:\\repositorio\\ASPNet\\ASP-A2.9 Ejercicio de repaso para TechSolutions S.L\\ASP-A2.9-TechSolutions\\ASP-A2.9-TechSolutions\\Class11.cs",
+              "RelativeToolTip": "ASP-A2.9-TechSolutions\\Class11.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T17:31:31.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VersionProfe.cs",
+              "DocumentMoniker": "C:\\repositorio\\ASPNet\\ASP-A2.9 Ejercicio de repaso para TechSolutions S.L\\ASP-A2.9-TechSolutions\\ASP-A2.9-TechSolutions\\VersionProfe.cs",
+              "RelativeDocumentMoniker": "ASP-A2.9-TechSolutions\\VersionProfe.cs",
+              "ToolTip": "C:\\repositorio\\ASPNet\\ASP-A2.9 Ejercicio de repaso para TechSolutions S.L\\ASP-A2.9-TechSolutions\\ASP-A2.9-TechSolutions\\VersionProfe.cs",
+              "RelativeToolTip": "ASP-A2.9-TechSolutions\\VersionProfe.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAA5wDAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T16:28:51.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\repositorio\\ASPNet\\ASP-A2.9 Ejercicio de repaso para TechSolutions S.L\\ASP-A2.9-TechSolutions\\ASP-A2.9-TechSolutions\\Program.cs",
               "RelativeDocumentMoniker": "ASP-A2.9-TechSolutions\\Program.cs",

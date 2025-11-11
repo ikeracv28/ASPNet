@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASP-A2.9-TechSolutions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55dbb60aae18fe87ffd923eae49eece3f0fc48ea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+567620c5c636de1502be9363173610301007f99f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASP-A2.9-TechSolutions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASP-A2.9-TechSolutions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
