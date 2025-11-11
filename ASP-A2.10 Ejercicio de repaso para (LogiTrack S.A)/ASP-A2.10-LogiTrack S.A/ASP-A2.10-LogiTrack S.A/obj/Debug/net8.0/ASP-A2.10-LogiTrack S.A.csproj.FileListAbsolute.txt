@@ -1,0 +1,15 @@
+C:\repositorio\ASPNet\ASP-A2.10 Ejercicio de repaso para (LogiTrack S.A)\ASP-A2.10-LogiTrack S.A\ASP-A2.10-LogiTrack S.A\bin\Debug\net8.0\ASP-A2.10-LogiTrack S.A.exe
+C:\repositorio\ASPNet\ASP-A2.10 Ejercicio de repaso para (LogiTrack S.A)\ASP-A2.10-LogiTrack S.A\ASP-A2.10-LogiTrack S.A\bin\Debug\net8.0\ASP-A2.10-LogiTrack S.A.deps.json
+C:\repositorio\ASPNet\ASP-A2.10 Ejercicio de repaso para (LogiTrack S.A)\ASP-A2.10-LogiTrack S.A\ASP-A2.10-LogiTrack S.A\bin\Debug\net8.0\ASP-A2.10-LogiTrack S.A.runtimeconfig.json
+C:\repositorio\ASPNet\ASP-A2.10 Ejercicio de repaso para (LogiTrack S.A)\ASP-A2.10-LogiTrack S.A\ASP-A2.10-LogiTrack S.A\bin\Debug\net8.0\ASP-A2.10-LogiTrack S.A.dll
+C:\repositorio\ASPNet\ASP-A2.10 Ejercicio de repaso para (LogiTrack S.A)\ASP-A2.10-LogiTrack S.A\ASP-A2.10-LogiTrack S.A\bin\Debug\net8.0\ASP-A2.10-LogiTrack S.A.pdb
+C:\repositorio\ASPNet\ASP-A2.10 Ejercicio de repaso para (LogiTrack S.A)\ASP-A2.10-LogiTrack S.A\ASP-A2.10-LogiTrack S.A\obj\Debug\net8.0\ASP-A2.10-LogiTrack S.A.GeneratedMSBuildEditorConfig.editorconfig
+C:\repositorio\ASPNet\ASP-A2.10 Ejercicio de repaso para (LogiTrack S.A)\ASP-A2.10-LogiTrack S.A\ASP-A2.10-LogiTrack S.A\obj\Debug\net8.0\ASP-A2.10-LogiTrack S.A.AssemblyInfoInputs.cache
+C:\repositorio\ASPNet\ASP-A2.10 Ejercicio de repaso para (LogiTrack S.A)\ASP-A2.10-LogiTrack S.A\ASP-A2.10-LogiTrack S.A\obj\Debug\net8.0\ASP-A2.10-LogiTrack S.A.AssemblyInfo.cs
+C:\repositorio\ASPNet\ASP-A2.10 Ejercicio de repaso para (LogiTrack S.A)\ASP-A2.10-LogiTrack S.A\ASP-A2.10-LogiTrack S.A\obj\Debug\net8.0\ASP-A2.10-LogiTrack S.A.csproj.CoreCompileInputs.cache
+C:\repositorio\ASPNet\ASP-A2.10 Ejercicio de repaso para (LogiTrack S.A)\ASP-A2.10-LogiTrack S.A\ASP-A2.10-LogiTrack S.A\obj\Debug\net8.0\ASP-A2.10-LogiTrack S.A.sourcelink.json
+C:\repositorio\ASPNet\ASP-A2.10 Ejercicio de repaso para (LogiTrack S.A)\ASP-A2.10-LogiTrack S.A\ASP-A2.10-LogiTrack S.A\obj\Debug\net8.0\ASP-A2.10-LogiTrack S.A.dll
+C:\repositorio\ASPNet\ASP-A2.10 Ejercicio de repaso para (LogiTrack S.A)\ASP-A2.10-LogiTrack S.A\ASP-A2.10-LogiTrack S.A\obj\Debug\net8.0\refint\ASP-A2.10-LogiTrack S.A.dll
+C:\repositorio\ASPNet\ASP-A2.10 Ejercicio de repaso para (LogiTrack S.A)\ASP-A2.10-LogiTrack S.A\ASP-A2.10-LogiTrack S.A\obj\Debug\net8.0\ASP-A2.10-LogiTrack S.A.pdb
+C:\repositorio\ASPNet\ASP-A2.10 Ejercicio de repaso para (LogiTrack S.A)\ASP-A2.10-LogiTrack S.A\ASP-A2.10-LogiTrack S.A\obj\Debug\net8.0\ASP-A2.10-LogiTrack S.A.genruntimeconfig.cache
+C:\repositorio\ASPNet\ASP-A2.10 Ejercicio de repaso para (LogiTrack S.A)\ASP-A2.10-LogiTrack S.A\ASP-A2.10-LogiTrack S.A\obj\Debug\net8.0\ref\ASP-A2.10-LogiTrack S.A.dll

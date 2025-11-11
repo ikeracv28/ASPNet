@@ -1,0 +1,15 @@
+C:\repositorio\ASPNet\ASP-A2.9 Ejercicio de repaso para TechSolutions S.L\ASP-A2.9-TechSolutions\ASP-A2.9-TechSolutions\bin\Debug\net8.0\ASP-A2.9-TechSolutions.exe
+C:\repositorio\ASPNet\ASP-A2.9 Ejercicio de repaso para TechSolutions S.L\ASP-A2.9-TechSolutions\ASP-A2.9-TechSolutions\bin\Debug\net8.0\ASP-A2.9-TechSolutions.deps.json
+C:\repositorio\ASPNet\ASP-A2.9 Ejercicio de repaso para TechSolutions S.L\ASP-A2.9-TechSolutions\ASP-A2.9-TechSolutions\bin\Debug\net8.0\ASP-A2.9-TechSolutions.runtimeconfig.json
+C:\repositorio\ASPNet\ASP-A2.9 Ejercicio de repaso para TechSolutions S.L\ASP-A2.9-TechSolutions\ASP-A2.9-TechSolutions\bin\Debug\net8.0\ASP-A2.9-TechSolutions.dll
+C:\repositorio\ASPNet\ASP-A2.9 Ejercicio de repaso para TechSolutions S.L\ASP-A2.9-TechSolutions\ASP-A2.9-TechSolutions\bin\Debug\net8.0\ASP-A2.9-TechSolutions.pdb
+C:\repositorio\ASPNet\ASP-A2.9 Ejercicio de repaso para TechSolutions S.L\ASP-A2.9-TechSolutions\ASP-A2.9-TechSolutions\obj\Debug\net8.0\ASP-A2.9-TechSolutions.GeneratedMSBuildEditorConfig.editorconfig
+C:\repositorio\ASPNet\ASP-A2.9 Ejercicio de repaso para TechSolutions S.L\ASP-A2.9-TechSolutions\ASP-A2.9-TechSolutions\obj\Debug\net8.0\ASP-A2.9-TechSolutions.AssemblyInfoInputs.cache
+C:\repositorio\ASPNet\ASP-A2.9 Ejercicio de repaso para TechSolutions S.L\ASP-A2.9-TechSolutions\ASP-A2.9-TechSolutions\obj\Debug\net8.0\ASP-A2.9-TechSolutions.AssemblyInfo.cs
+C:\repositorio\ASPNet\ASP-A2.9 Ejercicio de repaso para TechSolutions S.L\ASP-A2.9-TechSolutions\ASP-A2.9-TechSolutions\obj\Debug\net8.0\ASP-A2.9-TechSolutions.csproj.CoreCompileInputs.cache
+C:\repositorio\ASPNet\ASP-A2.9 Ejercicio de repaso para TechSolutions S.L\ASP-A2.9-TechSolutions\ASP-A2.9-TechSolutions\obj\Debug\net8.0\ASP-A2.9-TechSolutions.sourcelink.json
+C:\repositorio\ASPNet\ASP-A2.9 Ejercicio de repaso para TechSolutions S.L\ASP-A2.9-TechSolutions\ASP-A2.9-TechSolutions\obj\Debug\net8.0\ASP-A2.9-TechSolutions.dll
+C:\repositorio\ASPNet\ASP-A2.9 Ejercicio de repaso para TechSolutions S.L\ASP-A2.9-TechSolutions\ASP-A2.9-TechSolutions\obj\Debug\net8.0\refint\ASP-A2.9-TechSolutions.dll
+C:\repositorio\ASPNet\ASP-A2.9 Ejercicio de repaso para TechSolutions S.L\ASP-A2.9-TechSolutions\ASP-A2.9-TechSolutions\obj\Debug\net8.0\ASP-A2.9-TechSolutions.pdb
+C:\repositorio\ASPNet\ASP-A2.9 Ejercicio de repaso para TechSolutions S.L\ASP-A2.9-TechSolutions\ASP-A2.9-TechSolutions\obj\Debug\net8.0\ASP-A2.9-TechSolutions.genruntimeconfig.cache
+C:\repositorio\ASPNet\ASP-A2.9 Ejercicio de repaso para TechSolutions S.L\ASP-A2.9-TechSolutions\ASP-A2.9-TechSolutions\obj\Debug\net8.0\ref\ASP-A2.9-TechSolutions.dll

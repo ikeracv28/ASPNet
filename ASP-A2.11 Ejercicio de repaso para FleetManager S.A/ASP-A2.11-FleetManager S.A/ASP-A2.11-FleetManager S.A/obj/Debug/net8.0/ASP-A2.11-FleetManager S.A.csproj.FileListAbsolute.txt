@@ -1,0 +1,15 @@
+C:\repositorio\ASPNet\ASP-A2.11 Ejercicio de repaso para FleetManager S.A\ASP-A2.11-FleetManager S.A\ASP-A2.11-FleetManager S.A\bin\Debug\net8.0\ASP-A2.11-FleetManager S.A.exe
+C:\repositorio\ASPNet\ASP-A2.11 Ejercicio de repaso para FleetManager S.A\ASP-A2.11-FleetManager S.A\ASP-A2.11-FleetManager S.A\bin\Debug\net8.0\ASP-A2.11-FleetManager S.A.deps.json
+C:\repositorio\ASPNet\ASP-A2.11 Ejercicio de repaso para FleetManager S.A\ASP-A2.11-FleetManager S.A\ASP-A2.11-FleetManager S.A\bin\Debug\net8.0\ASP-A2.11-FleetManager S.A.runtimeconfig.json
+C:\repositorio\ASPNet\ASP-A2.11 Ejercicio de repaso para FleetManager S.A\ASP-A2.11-FleetManager S.A\ASP-A2.11-FleetManager S.A\bin\Debug\net8.0\ASP-A2.11-FleetManager S.A.dll
+C:\repositorio\ASPNet\ASP-A2.11 Ejercicio de repaso para FleetManager S.A\ASP-A2.11-FleetManager S.A\ASP-A2.11-FleetManager S.A\bin\Debug\net8.0\ASP-A2.11-FleetManager S.A.pdb
+C:\repositorio\ASPNet\ASP-A2.11 Ejercicio de repaso para FleetManager S.A\ASP-A2.11-FleetManager S.A\ASP-A2.11-FleetManager S.A\obj\Debug\net8.0\ASP-A2.11-FleetManager S.A.GeneratedMSBuildEditorConfig.editorconfig
+C:\repositorio\ASPNet\ASP-A2.11 Ejercicio de repaso para FleetManager S.A\ASP-A2.11-FleetManager S.A\ASP-A2.11-FleetManager S.A\obj\Debug\net8.0\ASP-A2.11-FleetManager S.A.AssemblyInfoInputs.cache
+C:\repositorio\ASPNet\ASP-A2.11 Ejercicio de repaso para FleetManager S.A\ASP-A2.11-FleetManager S.A\ASP-A2.11-FleetManager S.A\obj\Debug\net8.0\ASP-A2.11-FleetManager S.A.AssemblyInfo.cs
+C:\repositorio\ASPNet\ASP-A2.11 Ejercicio de repaso para FleetManager S.A\ASP-A2.11-FleetManager S.A\ASP-A2.11-FleetManager S.A\obj\Debug\net8.0\ASP-A2.11-FleetManager S.A.csproj.CoreCompileInputs.cache
+C:\repositorio\ASPNet\ASP-A2.11 Ejercicio de repaso para FleetManager S.A\ASP-A2.11-FleetManager S.A\ASP-A2.11-FleetManager S.A\obj\Debug\net8.0\ASP-A2.11-FleetManager S.A.sourcelink.json
+C:\repositorio\ASPNet\ASP-A2.11 Ejercicio de repaso para FleetManager S.A\ASP-A2.11-FleetManager S.A\ASP-A2.11-FleetManager S.A\obj\Debug\net8.0\ASP-A2.11-FleetManager S.A.dll
+C:\repositorio\ASPNet\ASP-A2.11 Ejercicio de repaso para FleetManager S.A\ASP-A2.11-FleetManager S.A\ASP-A2.11-FleetManager S.A\obj\Debug\net8.0\refint\ASP-A2.11-FleetManager S.A.dll
+C:\repositorio\ASPNet\ASP-A2.11 Ejercicio de repaso para FleetManager S.A\ASP-A2.11-FleetManager S.A\ASP-A2.11-FleetManager S.A\obj\Debug\net8.0\ASP-A2.11-FleetManager S.A.pdb
+C:\repositorio\ASPNet\ASP-A2.11 Ejercicio de repaso para FleetManager S.A\ASP-A2.11-FleetManager S.A\ASP-A2.11-FleetManager S.A\obj\Debug\net8.0\ASP-A2.11-FleetManager S.A.genruntimeconfig.cache
+C:\repositorio\ASPNet\ASP-A2.11 Ejercicio de repaso para FleetManager S.A\ASP-A2.11-FleetManager S.A\ASP-A2.11-FleetManager S.A\obj\Debug\net8.0\ref\ASP-A2.11-FleetManager S.A.dll
