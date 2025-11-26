@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36518.9 d17.14
+VisualStudioVersion = 17.14.36518.9
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjemploDebugging", "EjemploDebugging\EjemploDebugging.csproj", "{FD35D78A-1A42-409D-BBA8-E80FAE677104}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSPSumador", "PSPSumador\PSPSumador.csproj", "{86B02A34-1187-49FE-9232-B5C8BE6919C4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{FD35D78A-1A42-409D-BBA8-E80FAE677104}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD35D78A-1A42-409D-BBA8-E80FAE677104}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD35D78A-1A42-409D-BBA8-E80FAE677104}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86B02A34-1187-49FE-9232-B5C8BE6919C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86B02A34-1187-49FE-9232-B5C8BE6919C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86B02A34-1187-49FE-9232-B5C8BE6919C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86B02A34-1187-49FE-9232-B5C8BE6919C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

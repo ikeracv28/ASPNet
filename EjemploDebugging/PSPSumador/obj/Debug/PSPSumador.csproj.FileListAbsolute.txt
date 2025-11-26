@@ -1,0 +1,7 @@
+C:\Repositorio\ASPNet\EjemploDebugging\PSPSumador\bin\Debug\PSPSumador.exe.config
+C:\Repositorio\ASPNet\EjemploDebugging\PSPSumador\bin\Debug\PSPSumador.exe
+C:\Repositorio\ASPNet\EjemploDebugging\PSPSumador\bin\Debug\PSPSumador.pdb
+C:\Repositorio\ASPNet\EjemploDebugging\PSPSumador\obj\Debug\PSPSumador.csproj.AssemblyReference.cache
+C:\Repositorio\ASPNet\EjemploDebugging\PSPSumador\obj\Debug\PSPSumador.csproj.CoreCompileInputs.cache
+C:\Repositorio\ASPNet\EjemploDebugging\PSPSumador\obj\Debug\PSPSumador.exe
+C:\Repositorio\ASPNet\EjemploDebugging\PSPSumador\obj\Debug\PSPSumador.pdb

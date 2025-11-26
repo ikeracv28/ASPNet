@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\repositorio\\ASPNet\\Ejercicios de intercambio de datos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A319A069-9E7B-4352-817B-F8C2FE34B7B5}|Ejercicios de intercambio de datos\\Ejercicio-1.csproj|c:\\repositorio\\aspnet\\ejercicios de intercambio de datos\\ejercicios de intercambio de datos\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A319A069-9E7B-4352-817B-F8C2FE34B7B5}|Ejercicios de intercambio de datos\\Ejercicio-1.csproj|solutionrelative:ejercicios de intercambio de datos\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A319A069-9E7B-4352-817B-F8C2FE34B7B5}|Ejercicios de intercambio de datos\\Ejercicio-1.csproj|c:\\repositorio\\aspnet\\ejercicios de intercambio de datos\\ejercicios de intercambio de datos\\views\\home\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A319A069-9E7B-4352-817B-F8C2FE34B7B5}|Ejercicios de intercambio de datos\\Ejercicio-1.csproj|solutionrelative:ejercicios de intercambio de datos\\views\\home\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A319A069-9E7B-4352-817B-F8C2FE34B7B5}|Ejercicios de intercambio de datos\\Ejercicio-1.csproj|c:\\repositorio\\aspnet\\ejercicios de intercambio de datos\\ejercicios de intercambio de datos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A319A069-9E7B-4352-817B-F8C2FE34B7B5}|Ejercicios de intercambio de datos\\Ejercicio-1.csproj|solutionrelative:ejercicios de intercambio de datos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BFA228E-1B78-4104-B50D-15002374BFAA}|Ejercicio-2\\Ejercicio-2.csproj|c:\\repositorio\\aspnet\\ejercicios de intercambio de datos\\ejercicio-2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BFA228E-1B78-4104-B50D-15002374BFAA}|Ejercicio-2\\Ejercicio-2.csproj|solutionrelative:ejercicio-2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\repositorio\\ASPNet\\Ejercicios de intercambio de datos\\Ejercicios de intercambio de datos\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Ejercicios de intercambio de datos\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\repositorio\\ASPNet\\Ejercicios de intercambio de datos\\Ejercicios de intercambio de datos\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Ejercicios de intercambio de datos\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T10:21:30.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Perfil.cshtml",
+              "DocumentMoniker": "C:\\repositorio\\ASPNet\\Ejercicios de intercambio de datos\\Ejercicios de intercambio de datos\\Views\\Home\\Perfil.cshtml",
+              "RelativeDocumentMoniker": "Ejercicios de intercambio de datos\\Views\\Home\\Perfil.cshtml",
+              "ToolTip": "C:\\repositorio\\ASPNet\\Ejercicios de intercambio de datos\\Ejercicios de intercambio de datos\\Views\\Home\\Perfil.cshtml",
+              "RelativeToolTip": "Ejercicios de intercambio de datos\\Views\\Home\\Perfil.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T10:21:03.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\repositorio\\ASPNet\\Ejercicios de intercambio de datos\\Ejercicios de intercambio de datos\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ejercicios de intercambio de datos\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\repositorio\\ASPNet\\Ejercicios de intercambio de datos\\Ejercicios de intercambio de datos\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Ejercicios de intercambio de datos\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T10:21:02.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\repositorio\\ASPNet\\Ejercicios de intercambio de datos\\Ejercicio-2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Ejercicio-2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\repositorio\\ASPNet\\Ejercicios de intercambio de datos\\Ejercicio-2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Ejercicio-2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T10:20:40.332Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

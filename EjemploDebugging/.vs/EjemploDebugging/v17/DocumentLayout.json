@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Repositorio\\ASPNet\\EjemploDebugging\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FD35D78A-1A42-409D-BBA8-E80FAE677104}|EjemploDebugging\\EjemploDebugging.csproj|c:\\repositorio\\aspnet\\ejemplodebugging\\ejemplodebugging\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FD35D78A-1A42-409D-BBA8-E80FAE677104}|EjemploDebugging\\EjemploDebugging.csproj|C:\\Repositorio\\ASPNet\\EjemploDebugging\\ejemplodebugging\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD35D78A-1A42-409D-BBA8-E80FAE677104}|EjemploDebugging\\EjemploDebugging.csproj|solutionrelative:ejemplodebugging\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B02A34-1187-49FE-9232-B5C8BE6919C4}|PSPSumador\\PSPSumador.csproj|c:\\repositorio\\aspnet\\ejemplodebugging\\pspsumador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B02A34-1187-49FE-9232-B5C8BE6919C4}|PSPSumador\\PSPSumador.csproj|solutionrelative:pspsumador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repositorio\\ASPNet\\EjemploDebugging\\PSPSumador\\Program.cs",
+              "RelativeDocumentMoniker": "PSPSumador\\Program.cs",
+              "ToolTip": "C:\\Repositorio\\ASPNet\\EjemploDebugging\\PSPSumador\\Program.cs",
+              "RelativeToolTip": "PSPSumador\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T10:18:41.946Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "EjemploDebugging\\Program.cs",
               "ToolTip": "C:\\Repositorio\\ASPNet\\EjemploDebugging\\EjemploDebugging\\Program.cs",
               "RelativeToolTip": "EjemploDebugging\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAYwFwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-30T12:27:27.441Z",
               "EditorCaption": ""

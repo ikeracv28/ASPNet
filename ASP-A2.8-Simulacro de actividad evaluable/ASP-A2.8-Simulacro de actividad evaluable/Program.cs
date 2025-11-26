@@ -226,7 +226,7 @@ internal class Program
             public double Area { get => (DiagonalMayor * DiagonalMenor) / 2; }
             public double Perimetro { get => 2 * Math.Sqrt(Math.Pow(DiagonalMayor, 2) + Math.Pow(DiagonalMenor, 2)); }
 
-            var consumo = LeerDouble("Consumo (L/100km) (ej: 25.5): ");
+           
 
 
             public override double CalcularArea()

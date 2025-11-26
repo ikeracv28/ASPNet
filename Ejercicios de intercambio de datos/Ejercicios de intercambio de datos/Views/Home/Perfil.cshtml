@@ -1,0 +1,22 @@
+﻿@*
+   
+*@
+@{
+    @model Ejercicios_de_intercambio_de_datos.Models.PerfilViewModel
+
+    <h1>@ViewBag.TituloPagina</h1>
+
+    
+
+    <h2>Perfil</h2>
+    <p>Nombre: @Model.Nombre</p>
+    <p>Email: @Model.Email</p>
+
+
+    @if (Model.EsAdmin)
+    {
+        <p style="color:red;">Eres Admin!</p>
+    }
+
+    <footer>@((string)ViewData["FechaActual"])</footer>
+}

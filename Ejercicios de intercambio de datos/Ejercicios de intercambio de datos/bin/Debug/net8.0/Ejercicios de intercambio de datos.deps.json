@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ejercicios de intercambio de datos/1.0.0": {
+        "runtime": {
+          "Ejercicios de intercambio de datos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicios de intercambio de datos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
